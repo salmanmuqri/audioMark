@@ -33,7 +33,6 @@ Additionally, **FFmpeg** must be installed and added to your system's path. You 
 3. Save the compressed file in your desired location.
 
 ## Upcoming Features
-- **Add Effects**: This feature will allow users to apply various effects to audio files.
 - **Speed Adjustment**: Users will be able to change the playback speed of audio files.
 
 These features are currently under development and will be shipped in the next commit.
@@ -43,4 +42,7 @@ If you'd like to contribute, feel free to fork this repository and submit a pull
 
 
 **ai help has been taken in this project**
-**i was trying to add both features in same release but due to scarcity of time might not be able to add them, so fingers crossed, and if anyone creates a pull request they are more than welcome, Thank you guys**
+
+update: added effect feature, now speed adjustment will also be added soon.
+
+**PR are still welcomed for it**
